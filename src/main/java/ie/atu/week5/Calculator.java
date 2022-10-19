@@ -1,0 +1,9 @@
+package ie.atu.week5;
+import java.util.Scanner;
+
+public class Calculator {
+    public int add(int x, int y) {
+        int total = x + y;
+        return(total);
+    }
+}
