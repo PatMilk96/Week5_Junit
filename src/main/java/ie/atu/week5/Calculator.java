@@ -6,4 +6,9 @@ public class Calculator {
         int total = x + y;
         return(total);
     }
+
+    public int subtract(int x, int y) {
+        int total = x - y;
+        return(total);
+    }
 }
