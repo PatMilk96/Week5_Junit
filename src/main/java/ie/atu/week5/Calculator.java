@@ -11,4 +11,9 @@ public class Calculator {
         int total = x - y;
         return(total);
     }
+
+    public float divide(float x, float y) {
+        float total = x / y;
+        return(total);
+    }
 }
